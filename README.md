@@ -1,2 +1,2 @@
 # Samreen1
-this is my first class.
+this is my first class
